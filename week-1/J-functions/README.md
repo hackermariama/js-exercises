@@ -4,7 +4,7 @@ Here's a function that doubles a number:
 
 ```js
 function double(number) {
-  return number * 2;
+  return number / 2;
 }
 ```
 
